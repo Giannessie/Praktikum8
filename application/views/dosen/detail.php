@@ -9,7 +9,7 @@
 <body>
     <div class="col-md-12">
     <h3>Dosen</h3>
-    <table border="1" class="table">
+    <table class="table">
         <thead>
             <tr>
                 <th>No</th>
